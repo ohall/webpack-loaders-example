@@ -1,0 +1,29 @@
+{
+  "name": "webpack-loaders-example",
+  "version": "1.0.0",
+  "description": "A simple example of a webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/webpack-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "tutorial",
+    "example"
+  ],
+  "author": "Oakley Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/webpack-example/issues"
+  },
+  "homepage": "https://github.com/ohall/webpack-example#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.10.5"
+  },
+  "dependencies": {}
+}
